@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatih Bicer</h1>
-<h3 align="center">A passionate AI engineer from Ireland!</h3>
+<h3 align="center">A passionate AI/Data engineer from Ireland!</h3>
 
 - 🔭 I’m currently working on [Custom Object Detection YOLO8](https://github.com/bicerfatih/Custom_data_detection_training_detect_football_players_YOLO8)
 
