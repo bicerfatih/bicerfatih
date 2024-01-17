@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fatih Bicer</h1>
 <h3 align="center">A passionate AI | Cloud | Data Engineer from Ireland!</h3>
 
-- 🔭 I’m currently working on [AWS EC2 Flask Image Processing API]
+- 🔭 I’m currently working on **AWS EC2 Flask Image Processing API**
 
 - 📫 How to reach me **fbicer@apple.com**
 
