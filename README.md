@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatih Bicer</h1>
-<h3 align="center">A passionate ML | Cloud | Data Engineer from Ireland!</h3>
+<h3 align="center">A passionate ML | LLM | Data Engineer from Ireland!</h3>
 
 - 🔭 I’m currently working on **AWS EC2 Flask Image Processing API**
 
