@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fatih Bicer</h1>
 <h3 align="center">A passionate ML | LLM | Data Engineer from Ireland!</h3>
 
-- 🔭 I’m currently working on *Fine-Tuning-LLAMA-2-With-Custom-Dataset-Using-QLoRA-Sentiment-Analysis *
+- 🔭 I’m currently working on - Fine-Tuning-LLAMA-2-With-Custom-Dataset-Using-QLoRA-Sentiment-Analysis
 
 - 📫 How to reach me **fbicer@apple.com**
 
