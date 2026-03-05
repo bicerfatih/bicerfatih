@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on - Fine-Tuning-LLAMA-2-With-Custom-Dataset-Using-QLoRA-Sentiment-Analysis
 
-- 📫 How to reach me **fbicer@apple.com**
+- 📫 How to reach me **fatih.bicer@emirates.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
